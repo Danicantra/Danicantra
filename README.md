@@ -4,7 +4,7 @@
 
 Olá, viajante do código! 👋
 
-📚 Sou uma eterna aprendiz no mundo da engenharia de software. Atualmente, estou trilhando meu caminho na estrada da programação, e cada bug que eu esmago é uma pequena vitória na minha jornada.
+📚 Sou uma eterna aprendiz no mundo da engenharia de software. Atualmente, estou trilhando meu caminho na estrada da programação :)
 
 🚀 Quando não estou resolvendo quebra-cabeças lógicos, sou a orgulhosa capitã de uma loja de aplicativos no Google Play, onde minhas criações digitais ganham vida. Você pode encontrar meus aplicativos aqui: [CindyApps](https://play.google.com/store/apps/dev?id=5719049811015143620)
 
