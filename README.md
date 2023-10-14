@@ -10,7 +10,7 @@ Olá, viajante do código! 👋
 
 📺 Nas horas de folga, mergulho de cabeça no mundo cativante das séries coreanas. Os dramas, a comédia, o romance e a ação - tudo em uma língua que ainda estou aprendendo. É uma experiência e tanto!
 
-🎶 Por último, mas não menos importante, sou um fã incondicional de música eletrônica. Eu me alimento de batidas e sintetizadores enquanto codifico até altas horas da noite.
+🎶 Por último, mas não menos importante, sou uma fã incondicional de música eletrônica. Eu me alimento de batidas e sintetizadores enquanto codifico até altas horas da noite.
 
 Então, se você está procurando alguém para discutir códigos, séries coreanas ou música eletrônica, estou sempre aqui para uma boa conversa (ou para resolver um bug misterioso). Vamos construir o futuro da tecnologia juntos! 💻✨
 
@@ -28,6 +28,4 @@ Então, se você está procurando alguém para discutir códigos, séries corean
  
 <div> 
   <a href="https://www.instagram.com/ycantra/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/danielly-de-oliveira-8a9b7726b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
