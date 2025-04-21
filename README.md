@@ -2,19 +2,6 @@
 
 👨‍💻 Engenheira de Software em Formação | Desenvolvedora de Apps📱
 
-Olá, viajante do código! 👋
-
-📚 Sou uma eterna aprendiz no mundo da engenharia de software. Atualmente, estou trilhando meu caminho na estrada da programação :)
-
-🚀 Quando não estou resolvendo quebra-cabeças lógicos, sou a orgulhosa capitã de uma loja de aplicativos no Google Play, onde minhas criações digitais ganham vida. Você pode encontrar meus aplicativos aqui: [CindyApps](https://play.google.com/store/apps/dev?id=5719049811015143620)
-
-📺 Nas horas de folga, mergulho de cabeça no mundo cativante das séries coreanas. Os dramas, a comédia, o romance e a ação - tudo em uma língua que ainda estou aprendendo. É uma experiência e tanto!
-
-🎶 Por último, mas não menos importante, sou uma fã incondicional de música eletrônica. Eu me alimento de batidas e sintetizadores enquanto codifico até altas horas da noite.
-
-Então, se você está procurando alguém para discutir códigos, séries coreanas ou música eletrônica, estou sempre aqui para uma boa conversa (ou para resolver um bug misterioso). Vamos construir o futuro da tecnologia juntos! 💻✨
-
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
